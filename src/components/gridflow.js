@@ -11,8 +11,9 @@ export default function Gridflow() {
         </div>
         <div className="flex justify-between items-center">
         <img src="https://i.pinimg.com/564x/39/90/fe/3990fee0cb3d6cb1c484f85bd6c0489b.jpg" class="h-60 m-6 rotate-45 rounded-full" alt="background"/>
-        <img src="" class="h-60 flex-none"  alt="lol"/>
-        <img src="https://i.pinimg.com/564x/fb/c7/3c/fbc73c326c6d44974528aa369881919e.jpg" class="h-52 m-16 rounded-sm"  alt="none"/>
+        <img src="https://i.pinimg.com/564x/33/04/bc/3304bc2e6afdb60a09a8483f79fe6f49.jpg" class="h-32 rounded-md rotate-12 relative top-80 left-44 "  alt="lol"/>
+        <img src="https://i.pinimg.com/564x/fb/c7/3c/fbc73c326c6d44974528aa369881919e.jpg" class="h-60 m-16 rounded-"  alt="none"/>
+
         </div>
         </div>
         </>
