@@ -4,7 +4,7 @@ import "../font/Quinquefive-ALoRM.ttf";
 
 export default function Navbar() {
   return (
-    <div className="App flex justify-between items-center h-16 bg-[#80E93D] text-black border-0 m-9 rounded-2xl drop-shadow-sm sticky">
+    <div className="App flex justify-between items-center h-16 bg-[#7fe93dc1] text-black border-0 m-9 rounded-2xl drop-shadow-xl sticky">
       <a href="/" className="pl-8">Atharv x MORE</a>
       <div className="pr-12">
         <a href="/contact" className="p-4 ">About</a>

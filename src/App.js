@@ -4,13 +4,14 @@ import "./font/Quinquefive-ALoRM.ttf";
 import Navbar from './components/navbar';
 import Gridflow from './components/gridflow';
 import Footer from './components/footer';
+import Hero from './components/hero';
 
 function App() {
   return (
     <>
     <Navbar />
-    <Gridflow />
-    <Footer />
+    <Gridflow></Gridflow>
+    <Hero/>
     </>
   );
 }
