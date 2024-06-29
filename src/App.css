@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 @font-face {
   font-family: 'Qunique';
   src: local("Quinquefive-ALoRM"),
@@ -30,5 +32,11 @@ html {
   transform: translate3d(737px, 272px, 0px) rotate(-2078.13deg),
 }
 
+
+.chakra-petch-regular {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 @import url(https://www.1001fonts.com/quinquefive-font.html);
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
